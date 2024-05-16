@@ -6,5 +6,6 @@ public class Generate {
         System.out.println(666);
         System.out.println(888);
         System.out.println("soho test");
+        System.out.println("soho test2");
     }
 }
