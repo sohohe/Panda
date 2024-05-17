@@ -7,6 +7,6 @@ public class Generate {
         System.out.println(888);
         System.out.println("soho test");
         System.out.println("soho test3");
-        System.out.println("push");
+        System.out.println("pull");
     }
 }
